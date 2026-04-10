@@ -10,7 +10,7 @@
 
 # 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)  
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iylivishnuprasad)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shprashu5444-stack)  
 
 ---
 
